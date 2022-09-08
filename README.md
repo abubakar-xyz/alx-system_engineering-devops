@@ -1,1 +1,1 @@
-This directory contains answers to the tasks for the ALX shell_permissions project
+This repository contains all the projects for the ALX System Engineering Devops
